@@ -70,7 +70,6 @@ my-app/
 ## 🎨 Available Pages
 
 - **Main Animation**: `http://localhost:3000` - Features the main Elevate logo animation
-- **Framer Motion Demo**: `http://localhost:3000/framer` - Alternative implementation using Framer Motion
 
 ## 🛠️ Available Scripts
 
